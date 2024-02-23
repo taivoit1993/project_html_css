@@ -1,0 +1,18 @@
+*{
+    font-family: "Caveat", cursive;
+    color: white;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 25px;
+}
